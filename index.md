@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Her kan vi blogge om ting vi lurer på, ting vi vil dele med andre, forslag til forbedringer eller helt andre ting :)
 
-Maybe say a some things about yourself.
+.
 
-Or maybe what you plan to blog about.
+.
