@@ -7,6 +7,7 @@ tags: Blogging
 image: /img/postbanners/2021-03-13-how-to-build-a-sql-blog.png
 ---
 
+Bruksanvisning for nye innlegg. Lånt fra Chad Baldwins Blogg (https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
 
 * Posts are written in markdown, if you don't know it, don't worry, there's not much to it. [See this post by GitHub](https://guides.github.com/features/mastering-markdown/){:target="_blank"} to learn some of the basics.
 
