@@ -4,8 +4,8 @@ description: "Blogg for utveksling av erfaringer, tips og hints." # This will sh
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
+email: "devops@miljodir.no"
+twitter_username: "miljodir"
 github_username: "githubuser"
 linkedin_username: "linkedinuser"
 #facebook_username: username
