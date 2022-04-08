@@ -8,12 +8,12 @@ email: "devops@miljodir.no"
 twitter_username: "miljodir"
 github_username: "miljodirektoratet"
 linkedin_username: "miljødirektoratet"
-#facebook_username: username
-#flickr_username: username
-instagram_username: "miljodirektoratet"
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+facebook_username: "miljodirektoratet"
+flickr_username: "miljodirektoratet"
+instagram_username: miljodirektoratet
+pinterest_username: "miljodirektoratet"
+youtube_username: "miljodirektoratet"
+googleplus_username: +miljodirektoratet
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
